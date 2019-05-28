@@ -1,11 +1,37 @@
 # Locations in Now City
 
-## The Monkey Temple
+## General
 
-## The Grey Cathedral
+### The Siq
 
-## The Library
+Entryway...
 
-## The Bank of Tiamat
+### The City Hall
 
-## Mindfulness Detention Center
+### The Wind Farm
+
+## Grey
+
+### The Grey Cathedral
+
+### The Grey Nightclub
+
+## Paradise
+
+### The Monkey Temple
+
+### The Kid's Room
+
+## Woods
+
+### Sensitivity Garden
+
+## Reef
+
+### The Library
+
+### The Bank of Tiamat
+
+### Mindfulness Detention Center
+
+### Arena
